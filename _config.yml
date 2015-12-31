@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: From Brown To Green
+email: bobbychopra+blog@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My experiments with software development mainly dealing with brownfield 
+  applications and making (sigh, "trying to make") them into a greenfield 
+  application. I have been a developer since 2001 and resisted managing 
+  people until 2014. Feels like my journey is just starting and I see a lot 
+  of writing in my future ...
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://bobbychopra.github.io" # the base hostname & protocol for your site
+twitter_username: bobbychopra
+github_username:  bobbychopra
+
+# Build settings
+markdown: kramdown
