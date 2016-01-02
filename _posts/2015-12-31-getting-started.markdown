@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Getting started is never that simple"
-date:   2015-12-31 15:29:01 -0500
+date:   2015-12-31 22:00:00 -0500
 categories: jekyll blog 
 ---
 
-I setup my [github page], which was the quick & easy. Setting up [Jekyll with Pages on Windows] proved to be much more involved. I had to do the following:
+I setup my [github page], which was quick & easy. Setting up [Jekyll with Pages on Windows] proved to be much more involved. I had to do the following:
 
 * Install Ruby
   * Install [Chocolatey]
